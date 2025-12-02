@@ -2,7 +2,7 @@ def student_details(s_id,s_name,course,academic_year):
    result=(
     f"Student ID:{s_id}\n"
     f"Student Name:{s_name}\n"
-    f"Course:{course}\n"
+    f"Course Enrolled:{course}\n"
     f"Academic Year:{academic_year}"
     )
    return result
