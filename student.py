@@ -8,8 +8,8 @@ def student_details(s_id,s_name,course,academic_year):
    return result
    
 if __name__=="__main__":
-      s_id="01FF24BCA007"
-      s_name="Tanvi"
+      s_id="01FF24BCA051"
+      s_name="Deepa"
       course="DevOps"
       academic_year=2024
       print(student_details(s_id,s_name,course,academic_year))
