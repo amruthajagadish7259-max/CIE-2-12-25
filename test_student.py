@@ -6,4 +6,4 @@ def test_student_details():
         "Course Enrolled:DevOps\n"
         "Academic Year:2025"
     )
-    assert product_details("01FE24BCA011","Amrutha","DevOps",2024)==expected_output
+    assert student_details("01FE24BCA011","Amrutha","DevOps",2024)==expected_output
